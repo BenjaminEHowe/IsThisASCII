@@ -7,7 +7,6 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     </head>
     <body>
-        <a href="https://github.com/BenjaminEHowe/IsThisASCII"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -28,7 +27,7 @@
                         <input type="submit" value="Upload" name="submit">
                     </form>
                     <p><em>Please note, while every attempt has been made to ensure the accuracy and completeness of this tool, the author accepts no responsiblilty for any errors or ommisions. Users of this tool accept that they are solely responsible for ensuring work is submitted in the correct format.</em></p>
-                    <p>Created by <a href="https://www.bh96.uk/">Benjamin Howe</a> to help students correctly submit work for <a href="https://www.reading.ac.uk/computer-science/dcs-bio-pat-parslow.aspx">Pat Parslow's</a> <a href="https://www.reading.ac.uk/modules/document.aspx?modP=CS3SL16&modYR=1617">SLEASE</a> module at the <a href="https://www.reading.ac.uk/">University of Reading</a>.</p>
+                    <p>Created by <a href="https://www.bh96.uk/">Benjamin Howe</a> to help students correctly submit work for <a href="https://www.reading.ac.uk/computer-science/dcs-bio-pat-parslow.aspx">Pat Parslow's</a> <a href="https://www.reading.ac.uk/modules/document.aspx?modP=CS3SL16&modYR=1617">SLEASE</a> module at the <a href="https://www.reading.ac.uk/">University of Reading</a>. Source available on <a href="https://github.com/BenjaminEHowe/IsThisASCII">GitHub</a>.</p>
                 </div>
             </div>
         </div>
